@@ -40,9 +40,9 @@
 
 ### 4. Darknet Diaries Podcast EP. 154: Hijacked Line:
 
-- The podcasters had a hacker on the podcast named Connor Freeman and they talked to him about his engagment in scamming an hacking. Some noteable hacks were him being involved in cryptoscams and etc. Everything started from minecraft when he was only 11 years old and met a griefer there who took hold of a server and deleted everything. That intrigued him to fully engage and learn everything about scamming.
-- Conor got involved in underground forums where he would learn new practices sych as refund scams and hiring refunders.
-- Their main targtes started from minecraft admins and went to SMS-based 2FA codes for banks, crypto, wallets and emails. He was involved in very big cases one which would have led him to get maximun sentece in jail. He made a living of of stolen cryptocurrencies.
+- The podcasters had a hacker on the podcast named Connor Freeman and they talked to him about his engagment in cybercrime. Some noteable hacks were him being involved in cryptoscams and etc. Everything started from minecraft when he was only 11 years old and met a griefer there who took hold of a server and deleted everything. That intrigued him to fully engage and learn everything about scamming.
+- Conor got involved in underground forums where he would learn new practices such as refund scams and hiring refunders.
+- Their main targets started from minecraft admins and went to SMS-based 2FA codes for banks, crypto, wallets and emails. He was involved in very big cases one which would have led him to get maximun sentece in jail. He made a living of of stolen cryptocurrencies.
 - Ethical and the moral points of this case intrigued me because it all started from a simple game like minecraft which eventually led him to scam and take advantage of people. This case was interesting.
 
 ## Question?
@@ -52,7 +52,7 @@
 
 - Strong and unique passwords
 - Enabling two step authentication
-- Regualar software updates
+- Regular software updates
 - Be careful with emails and links
 - Secure your WIFI network
 - Try to limit personal information sharing
@@ -80,4 +80,9 @@ A Accept: Sometimes there will be small problems and potentially the app or webs
 #### Source for understanding the META. https://standrewsconsulting.com/dealing-with-risk/avoid-mitigate-accept-transfer/
 
 ## Did we do a good enough job?
-<p>Of course there could allways be stuff to further try and add but all in all plan sounds good. Just continue on reinforcing protection systems and monitoring them all the time. Updating the threat model is also a great way to stay in touch with everything and explain to all the team members of how everything works</p>
+<p>Of course there could allways be stuff to further try and add but all in all plan sounds good. Just continue on reinforcing protection systems and monitoring them all the time. Updating the threat model is also a great way to stay in touch with everything and explain to all the team members of how everything works</p> <br>
+
+# Sources
+#### Source for understanding the META. https://standrewsconsulting.com/dealing-with-risk/avoid-mitigate-accept-transfer/
+#### Source for Stride and Cia models: https://www.researchgate.net/figure/Mapping-STRIDE-with-CIA-3-security-attributes_tbl1_341515589
+#### https://terokarvinen.com/information-security/
