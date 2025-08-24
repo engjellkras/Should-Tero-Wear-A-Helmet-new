@@ -2,7 +2,7 @@
 
 ### Threat Modeling Very Shortly
 
-<p>To summarize the articles and understand the artiicle we first need to understand what is Threat modeling in general. Basically threat modeling means finding, assessing and addressing potential security threats to a system such as a website, an application or organization for example</p>
+<p>To summarize the and understand the article we first need to understand what is Threat modeling in general. Basically threat modeling means finding, assessing and addressing potential security threats to a system such as a website, an application or organization and dealing with them. Creatin a plan to keep risks limited and not let them create potential problems.</p>
 
 ###  1. Braiterman et al 2020: Threat modeling manifesto <br>
 - Explaining why use threat modeling and who it should be for. <br>
