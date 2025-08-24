@@ -39,9 +39,8 @@
 <p> For further projects would drawing simple data flow diagrams be enough for valuation?</p>
 
 ### 4. Darknet Diaries Podcast EP. 154: Hijacked Line:
-- The podcasters had a hacker on the podcast named Connor Freeman and they talked to him about how they did everything why.
-- Their main targtes were SMS-based 2FA codes for banks, crypto, wallets and emails.
-- I liked the episode because it highlighted the need for better authentication methods.
+- The podcasters had a hacker on the podcast named Connor Freeman and they talked to him about his engagment in scamming an hacking. Some noteable hacks were him being involved in cryptoscams and etc. Everything started from minecraft when he was only 11 years old and met a griefer there who took hold of a server and deleted everything. 
+- Their main targtes were SMS-based 2FA codes for banks, crypto, wallets and emails. He was involved in very big cases one which would have led him to get maximun sentece in jail.
 
 ## Question?
 <p>If SMS based 2FA is still extremely vulnerable, why continue using them in places that hold a lot of personal information such as banks and big companies.</p>
