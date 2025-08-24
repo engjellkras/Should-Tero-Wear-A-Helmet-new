@@ -42,7 +42,7 @@
 
 - The podcasters had a hacker on the podcast named Connor Freeman and they talked to him about his engagement in cybercrime. Some noteable hacks were him being involved in cryptoscams and etc. Everything started from minecraft when he was only 11 years old and met a griefer there who took hold of a server and deleted everything. They became buddies after that. That intrigued him to fully engage and learn everything about scamming.
 - Conor got involved in underground forums where he would learn new practices such as refund scams and hiring refunders.
-- Their main targets started from minecraft admins and went to SMS-based 2FA codes for banks, crypto, wallets and emails. He was involved in very big cases one which would have led him to get maximun sentece in jail. He made a living of of stolen cryptocurrencies.
+- Their main targets started from minecraft admins and went to SMS-based Two Factory Authentication codes for banks, crypto, wallets and emails. He was involved in very big cases one which would have led him to get maximun sentece in jail. He made a living of of stolen cryptocurrencies.
 - Ethical and the moral points of this case intrigued me because it all started from a simple game like minecraft which eventually led him to scam and take advantage of people. This case was interesting.
 
 ## Question?
